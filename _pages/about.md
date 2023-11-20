@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hey, thanks for stopping by! :wave: 
 
-I am currently in my first year as a Ph.D. student in Computer Science at [National University Singapore (NUS)](https://www.comp.nus.edu.sg/cs/), advised by Prof.[Kenji Kawaguchi](https://ml.comp.nus.edu.sg/kawaguchi). Before that, I received my B.S. in Computer Science and Statistics from [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu/), where I was fortunated to be mentored by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/) and Prof. [Jingrui He](https://www.hejingrui.org/).
+I am currently pursuing my Ph.D. in Computer Science at [National University Singapore (NUS)](https://www.comp.nus.edu.sg/cs/), advised by Prof.[Kenji Kawaguchi](https://ml.comp.nus.edu.sg/kawaguchi) since 2023. Before that, I received my B.S. in Computer Science and Statistics from [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu/), where I was fortunated to be mentored by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/) and Prof. [Jingrui He](https://www.hejingrui.org/).
 
 <strong>Research:</strong> My research focuses on data-centric and generative artificial intelligence. I focus on scrutinizing high-quality datasets to improve the capacity and reliability of AI models, including diffusion and multimodal language models. My goal is to develop AI that comprehends and complements human behaviors, ensuring that the technology advances in harmony with human values and augments human capabilities.
 
