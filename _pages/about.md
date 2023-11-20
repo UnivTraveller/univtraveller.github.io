@@ -23,14 +23,12 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hey, thanks for stopping by! :wave: 
 
-I am an incoming Ph.D. student in Computer Science at [National University Singapore (NUS)](https://www.comp.nus.edu.sg/cs/). Before that, I received my B.S. in Computer Science and Statistics from [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu/), 
+I am currently in my first year as a Ph.D. student in Computer Science at [National University Singapore (NUS)](https://www.comp.nus.edu.sg/cs/). Before that, I received my B.S. in Computer Science and Statistics from [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu/), 
 where I was fortunated to be mentored by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/) and Prof. [Jingrui He](https://www.hejingrui.org/).
 
-<strong>Research:</strong> My interest spans multiple areas, including representation learning, trustworthy machine learning, and data-centric AI.
-I am particularly interested in developing *Data Optimization* methods to improve the efficiency, reliability and interpretability of ML models from a data-centric view.
-In the long run, I want to make machine learning techniques accessible to everyone and enhance people's lives by making it cost-efficient and trustworthy.
+<strong>Research:</strong> My research focuses on data-centric and generative artificial intelligence. I focus on optimizing small, highquality datasets to improve the capacity and reliability of AI models, including diffusion and multimodal language models. My goal is to develop AI that comprehends and complements human behavior and cognitive styles, ensuring that the technology advances in harmony with human values and augments human capabilities.
 
-**Feel free to drop me an e-mail or contact me by twitter, if you are interested in my research and want to discuss relevant research topic or potential collaborations!** :smile:
+**Feel free to drop me an e-mail or contact me by twitter, if you are interested in my research and want to discuss relevant research topic or potential collaborations!** (WeChat: whn769452159) :smile:
 
 [//]: # (This is some random text -- this should change frontend2.)
 
