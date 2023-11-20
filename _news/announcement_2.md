@@ -1,3 +1,11 @@
+---
+layout: post
+date: 2023-08-20 19:00:00-0400
+inline: true
+---
+Recent work: <a href="https://openreview.net/pdf?id=244KePn09i" target = "_blank">Single-Pass Contrastive Learning Can Work for Both Homophilic and Heterophilic Graph</a> is accepted by TMLR.
+
+
 <!-- ---
 layout: post
 date: 2022-10-27 15:59:00-0400
@@ -5,14 +13,6 @@ inline: true
 ---
 
 I will join National University Singapore (NUS) and start my Ph.D. journey from Jan.2023. -->
-
-
----
-layout: post
-date: 2023-08-20 19:00:00-0400
-inline: true
----
-Recent work: <a href="https://openreview.net/pdf?id=244KePn09i" target = "_blank">Single-Pass Contrastive Learning Can Work for Both Homophilic and Heterophilic Graph</a> is accepted by TMLR.
 
 
 
