@@ -27,7 +27,7 @@ I am currently pursuing my Ph.D. in Computer Science at [National University Sin
 
 <strong>Research:</strong> My research focuses on data-centric and generative artificial intelligence. I focus on scrutinizing high-quality datasets to improve the capacity and reliability of AI models, including diffusion and multimodal language models. My goal is to develop AI that comprehends and complements human behaviors, ensuring that the technology advances in harmony with human values and augments human capabilities.
 
-**Feel free to email me or contact me on Twitter if you're interested in my research and would like to discuss potential collaborations!** :smile: *(WeChat: whn769452159, Twitter: @HaonanWang97)*
+**Feel free to reach out if you're interested in my research or would like to discuss potential collaborations!** :smile: You can contact me via email, WeChat (*whn769452159*), or Twitter (*@HaonanWang97*).
 
  
 
