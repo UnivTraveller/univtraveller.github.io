@@ -3,7 +3,7 @@ layout: post
 date: 2024-2-01 19:00:00-0400
 inline: true
 ---
-Recent work: <a href="https://arxiv.org/pdf/2401.01623" target = "_blank">Can AI Be as Creative as Humans?</a> is on Arxiv!
+:art: Our work <a href="https://arxiv.org/pdf/2401.01623" target = "_blank">Can AI Be as Creative as Humans?</a> is on Arxiv!
 
 <!-- ---
 layout: post
