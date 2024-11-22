@@ -1,17 +1,8 @@
 ---
 layout: post
-date: 2024-5-10 19:00:00-0400
+date: 2024-11-22 19:00:00-0400
 inline: true
 ---
-
-:tada: Our work <a href="https://openreview.net/forum?id=20FxHX25aq" target="_blank">The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline</a> has been accepted for an <a style="color:red"><b>Oral presentation</b></a> at ICML 2024! 
-Welcome to our session <a href="https://icml.cc/virtual/2024/session/35290" target = "_blank">Oral 6x Robustness and Safety</a> in Vienna.
-
-
-
-<!-- ---
-layout: post
-date: 2023-05-10 19:00:00-0400
-inline: true
----
-Recent work: <a href="https://arxiv.org/pdf/2305.05208.pdf" target = "_blank">Boosting Visual-Language Models by Exploiting Hard Samples</a> is on Arxiv. -->
+<a href="https://arxiv.org/pdf/2411.13476" target = "_blank">When Precision Meets Position: BFloat16 Breaks Down RoPE in Long-Context Training</a> s on Arxiv!
+RoPE is Broken 🤯 because of ... BFloat16 — Then, How Can We Improve Long-Context Training? 🤔️
+👉 We propose AnchorAttention, the improved attention for LLMs long-context training.

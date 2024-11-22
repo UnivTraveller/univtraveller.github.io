@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2023-10-29 19:00:00-0400
+date: 2024-2-01 19:00:00-0400
 inline: true
 ---
-<a href="https://openreview.net/forum?id=20FxHX25aq" target = "_blank">The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline</a> is accepted (Oral) by NeurIPS 2023 Workshop on Backdoors in Deep Learning.
+:art: Our work <a href="https://arxiv.org/pdf/2401.01623" target = "_blank">Can AI Be as Creative as Humans?</a> is on Arxiv!
 
 <!-- ---
 layout: post
