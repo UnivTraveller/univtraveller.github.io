@@ -109,6 +109,5 @@
 - title: Professional Services
   type: list
   contents:
-    - <strong>Conference Reviewer:</strong> CVPR (2024), ICLR (2024), AISTATS (2024), NeurIPS (2022,2023), ICML (2022, 2023), WSDM(2023), AAAI (2023, 2022), LoG (2022), KDD (2021), CIKM (2021).
-    - <strong>Workshop Reviewer:</strong> NeurIPS 2022 AI4Science, FedGraph 2022, ICML 2022 AI4Science.
-    - <strong>Journal Reviewer:</strong> IEEE Transactions on Big Data.
+    - <strong>Conference Reviewer:</strong> ICLR, NeurIPS, ICML, CVPR, AISTATS, WSDM, AAAI, LoG, KDD, CIKM.
+    - <strong>Journal Reviewer:</strong> TPAMI, TMLR, IEEE Transactions on Big Data.
